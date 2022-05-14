@@ -1,1 +1,3 @@
-# cl0101-data-types
+# Data Types in JavaScript
+## The program should execute in command line:
+## npm run start
