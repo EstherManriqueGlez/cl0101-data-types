@@ -1,3 +1,3 @@
 # Data Types in JavaScript
-## The program should execute in command line:
-## npm run start
+## The program should be run in command line:
+## npm run start.
