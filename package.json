@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Esther Manrique",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.2"
+  }
 }
